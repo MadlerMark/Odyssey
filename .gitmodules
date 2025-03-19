@@ -17,7 +17,7 @@
 	url = https://github.com/vasigavr1/Od-Hermes.git
 [submodule "cht"]
 	path = cht
-	url = https://github.com/vasigavr1/CHT.git
+	url = https://github.com/MadlerMark/CHT.git
 [submodule "craq"]
 	path = craq
 	url = https://github.com/vasigavr1/CRAQ.git
