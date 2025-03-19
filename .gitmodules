@@ -11,19 +11,19 @@
 	branch = Development
 [submodule "Derecho"]
 	path = derecho
-	url = https://github.com/vasigavr1/Derecho.git
+	url = https://github.com/MadlerMark/Derecho.git
 [submodule "Hermes"]
 	path = hermes
-	url = https://github.com/vasigavr1/Od-Hermes.git
+	url = https://github.com/MadlerMark/Od-Hermes.git
 [submodule "cht"]
 	path = cht
 	url = https://github.com/MadlerMark/CHT.git
 [submodule "craq"]
 	path = craq
-	url = https://github.com/vasigavr1/CRAQ.git
+	url = https://github.com/MadlerMark/CRAQ.git
 [submodule "kite"]
 	path = kite
-	url = https://github.com/vasigavr1/Kite.git
+	url = https://github.com/MadlerMark/Kite.git
 [submodule "paxos"]
 	path = paxos
-	url = https://github.com/vasigavr1/Paxos.git
+	url = https://github.com/MadlerMark/Paxos.git
