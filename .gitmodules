@@ -20,7 +20,7 @@
 [submodule "cht"]
 	path = cht
 	branch = master
-	url = https://github.com/MadlerMark/CHT.git
+	url = https://github.com/MadlerMark/CHT/tree/master.git
 [submodule "craq"]
 	path = craq
 	branch = master
