@@ -11,19 +11,25 @@
 	branch = Development
 [submodule "Derecho"]
 	path = derecho
+	branch = master
 	url = https://github.com/MadlerMark/Derecho.git
 [submodule "Hermes"]
 	path = hermes
+	branch = master
 	url = https://github.com/MadlerMark/Od-Hermes.git
 [submodule "cht"]
 	path = cht
+	branch = master
 	url = https://github.com/MadlerMark/CHT.git
 [submodule "craq"]
 	path = craq
+	branch = master
 	url = https://github.com/MadlerMark/CRAQ.git
 [submodule "kite"]
 	path = kite
+	branch = master
 	url = https://github.com/MadlerMark/Kite.git
 [submodule "paxos"]
 	path = paxos
+	branch = master
 	url = https://github.com/MadlerMark/Paxos.git
