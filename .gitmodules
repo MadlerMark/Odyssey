@@ -1,13 +1,13 @@
 [submodule "shared"]
 	path = odlib
-	url = https://github.com/MadlerMark/Odyssey-lib.git
+	url = https://github.com/vasigavr1/Odyssey-lib.git
 [submodule "zookeeper"]
 	path = zookeeper
 	url = https://github.com/vasigavr1/Zookeeper.git
 	branch = Development
 [submodule "odlib"]
 	path = odlib
-	url = https://github.com/MarkMadler/Odyssey-lib.git
+	url = https://github.com/vasigavr1/Odyssey-lib.git
 	branch = Development
 [submodule "Derecho"]
 	path = derecho
